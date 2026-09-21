@@ -15,7 +15,7 @@ Dans le fonctionnement organisationnel classique, cette analyse repose sur une i
 ## 🖥️ Aperçu de l'application
 
 ### Console de pilotage PyQt
-![Interface Prospect PV](inetrface_pv_prospect.png)
+![Interface Prospect PV](inetrface_projet_solaire.png)
 
 🗺️ Restitution cartographique : De la donnée brute au projet optimisé
 ![Interface Prospect PV](inetrface_pv_prospect.png)
