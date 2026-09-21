@@ -4,7 +4,8 @@ Extension PyQGIS d'ingénierie d'avant-projet pour l'évaluation instantanée du
 
 ---
 
-📌 Introduction : Le besoin d'une évaluation instantanée
+
+## 📌 Introduction : Le besoin d'une évaluation instantanée
 
 Lors de la phase de prospection, l'identification d'un terrain présentant un potentiel solaire constitue l'étape charnière de tout développement. Pour valider la viabilité d'un futur parc, les chefs de projets ont l'impératif d'estimer, avec une précision croissante, la puissance installable d'un site dès les premiers contacts fonciers. Cette simulation technique est complexe par nature : elle impose la convergence d'une multitude de contraintes géographiques, techniques et environnementales. L'analyse doit intégrer simultanément les déclivités du terrain, les voiries, la déduction des tournières nécessaires aux manœuvres agricoles, ainsi que les zones d'exclusion strictes liées aux forêts, aux haies bocagères ou aux divers périmètres de protection réglementaires (servitudes, zones protégées, inventaires biodiversité).   
 
@@ -17,5 +18,7 @@ Dans le fonctionnement organisationnel classique, cette analyse repose sur une i
 ### Console de pilotage PyQt
 ![Interface Prospect PV](inetrface_projet_solaire.png)
 
-🗺️ Restitution cartographique : De la donnée brute au projet optimisé
+---
+
+## 🗺️ Restitution cartographique : De la donnée brute au projet optimisé
 ![carte](Carte_projet_solaire.jpg)
