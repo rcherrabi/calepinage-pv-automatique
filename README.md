@@ -18,4 +18,4 @@ Dans le fonctionnement organisationnel classique, cette analyse repose sur une i
 ![Interface Prospect PV](inetrface_projet_solaire.png)
 
 🗺️ Restitution cartographique : De la donnée brute au projet optimisé
-![Interface Prospect PV](Carte_projet_solaire.png)
+![carte](Carte_projet_solaire.png)
