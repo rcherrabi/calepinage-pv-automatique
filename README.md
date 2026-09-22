@@ -1,9 +1,8 @@
 ☀️ Solar Layout Generator — Simulateur de Faisabilité & Calepinage Solaire
 
-Extension PyQGIS d'ingénierie d'avant-projet pour l'évaluation instantanée du potentiel solaire, la modélisation des contraintes et l'optimisation du calepinage.
+Extension PyQGIS pour l'évaluation instantanée du potentiel solaire, la modélisation des contraintes et l'optimisation du calepinage.
 
 ---
-
 
 ## 📌 Introduction : Le besoin d'une évaluation instantanée
 
